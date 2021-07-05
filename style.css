@@ -1,0 +1,26 @@
+li {
+    display:inline;  
+}
+
+.abc{
+    color:red;
+}
+body{
+    font-family: roboto;
+}
+.diplomes  {
+    background-color: red;
+    color:green;
+
+}
+.form{
+    background-color: yellow;
+    color:red;
+}
+.experiences{
+    background-color: green;
+}
+.youtube{
+    background-color: blue;
+}
+
